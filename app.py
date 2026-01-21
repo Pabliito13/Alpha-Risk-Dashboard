@@ -464,3 +464,4 @@ st.sidebar.info(f"""
 - **Bubble Chart:** Annual Vol (0.60 = 60%)
 - **Relazione:** Daily * 15.8 = Annual
 """)
+#update
